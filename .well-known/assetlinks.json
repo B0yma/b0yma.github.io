@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.boyma.myapplication",
+    "sha256_cert_fingerprints":
+    ["AC:C7:55:D3:E9:9D:1F:2B:5E:53:D3:79:20:3C:80:19:0D:5E:84:88:8F:4A:74:D9:29:9D:96:89:3C:27:A5:D9"]
+  }
+}]
